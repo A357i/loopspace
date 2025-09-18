@@ -1,4 +1,4 @@
 # loopspace
 
-# A collection of my coding ... Yep!
+# A collection of my problem-solving challenge!
 ----
